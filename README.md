@@ -67,6 +67,6 @@ Comparar o desempenho de diferentes algoritmos de classificação em múltiplas 
 
 # Autor
 
-EMANOEL SOUSA
-OSVALDO CAVALCANTE
-PAULO DO CARMO
+-EMANOEL SOUSA
+-OSVALDO CAVALCANTE
+-PAULO DO CARMO
