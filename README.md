@@ -1,0 +1,72 @@
+# Algoritmos de Classificação - Machine Learning
+
+Este repositório contém implementações e análises de algoritmos de classificação supervisionada utilizando diferentes bases de dados clássicas de Machine Learning.
+
+## Bases Utilizadas
+
+- Iris
+- Seeds
+- Wine
+- Digits
+- Breast Cancer
+- Heart Disease
+
+---
+
+# K-Nearest Neighbors (KNN)
+
+Implementação do algoritmo KNN utilizando todas as bases de dados em um único notebook.
+
+🔗 Notebook:
+
+https://colab.research.google.com/drive/1OSTSGno8Q6qdtBhWRKeTNxhi-dVf-yAf
+
+---
+
+# Naive Bayes
+
+Implementações separadas por base de dados.
+
+| Base | Notebook |
+|--------|----------|
+| Seeds | https://colab.research.google.com/drive/1pmzSCmvshXdzHC52LTgLBrvbC1lp9MNy |
+| Wine | https://colab.research.google.com/drive/1G6v0WglPOP6chzBaSpQ_-dFYklj7j1wC |
+| Digits | https://colab.research.google.com/drive/1oy3gj5fC_ZKfTsXaVtVI1Ihz5e94LkLi |
+| Breast Cancer | https://colab.research.google.com/drive/1vrYCtCvxGSoo8d0GSjJji74EfR62kdNJ |
+| Heart Disease | https://colab.research.google.com/drive/10VCjXDco_C53EvIEXlLH7R3AljdyaCSd |
+| Iris | https://colab.research.google.com/drive/1wKr8Q4iLJWQNEFonR0eW3XWYy4RPm7Yc |
+
+---
+
+# Árvore de Decisão
+
+*Links serão adicionados posteriormente.*
+
+| Base | Notebook |
+|--------|----------|
+| Seeds | Em breve |
+| Wine | Em breve |
+| Digits | Em breve |
+| Breast Cancer | Em breve |
+| Heart Disease | Em breve |
+| Iris | Em breve |
+
+---
+
+# Objetivo
+
+Comparar o desempenho de diferentes algoritmos de classificação em múltiplas bases de dados, observando métricas como:
+
+- Acurácia
+- Precisão
+- Recall
+- F1-Score
+- Matriz de Confusão
+
+---
+
+# Autor
+
+EMANOEL SOUSA
+OSVALDO CAVALCANTE
+PAULO DO CARMO
