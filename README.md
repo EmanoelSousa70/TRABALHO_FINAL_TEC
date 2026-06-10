@@ -19,7 +19,7 @@ Implementação do algoritmo KNN utilizando todas as bases de dados em um único
 
 🔗 Notebook:
 
-https://colab.research.google.com/drive/1OSTSGno8Q6qdtBhWRKeTNxhi-dVf-yAf
+https://colab.research.google.com/drive/1OSTSGno8Q6qdtBhWRKeTNxhi-dVf-yAf?usp=sharing
 
 ---
 
