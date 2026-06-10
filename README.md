@@ -29,12 +29,12 @@ Implementações separadas por base de dados.
 
 | Base | Notebook |
 |--------|----------|
-| Seeds | https://colab.research.google.com/drive/1pmzSCmvshXdzHC52LTgLBrvbC1lp9MNy |
-| Wine | https://colab.research.google.com/drive/1G6v0WglPOP6chzBaSpQ_-dFYklj7j1wC |
-| Digits | https://colab.research.google.com/drive/1oy3gj5fC_ZKfTsXaVtVI1Ihz5e94LkLi |
-| Breast Cancer | https://colab.research.google.com/drive/1vrYCtCvxGSoo8d0GSjJji74EfR62kdNJ |
-| Heart Disease | https://colab.research.google.com/drive/10VCjXDco_C53EvIEXlLH7R3AljdyaCSd |
-| Iris | https://colab.research.google.com/drive/1wKr8Q4iLJWQNEFonR0eW3XWYy4RPm7Yc |
+| Seeds | https://colab.research.google.com/drive/1pmzSCmvshXdzHC52LTgLBrvbC1lp9MNy?usp=sharing |
+| Wine |https://colab.research.google.com/drive/1G6v0WglPOP6chzBaSpQ_-dFYklj7j1wC?usp=sharing|
+| Digits |https://colab.research.google.com/drive/1oy3gj5fC_ZKfTsXaVtVI1Ihz5e94LkLi?usp=sharing |
+| Breast Cancer | https://colab.research.google.com/drive/1vrYCtCvxGSoo8d0GSjJji74EfR62kdNJ?usp=sharing|
+| Heart Disease |https://colab.research.google.com/drive/10VCjXDco_C53EvIEXlLH7R3AljdyaCSd?usp=sharing |
+| Iris | https://colab.research.google.com/drive/1wKr8Q4iLJWQNEFonR0eW3XWYy4RPm7Yc?usp=sharing |
 
 ---
 
