@@ -40,16 +40,16 @@ Implementações separadas por base de dados.
 
 # Árvore de Decisão
 
-*Links serão adicionados posteriormente.*
+Implementações separadas por base de dados.
 
 | Base | Notebook |
 |--------|----------|
-| Seeds | Em breve |
-| Wine | Em breve |
-| Digits | Em breve |
-| Breast Cancer | Em breve |
-| Heart Disease | Em breve |
-| Iris | Em breve |
+| Seeds | [Acesse](./arvore-decisao/seeds_dataset.py) |
+| Wine | [Acesse](./arvore-decisao/wine_dataset.py) | 
+| Digits | [Acesse](./arvore-decisao/digits_dataset.py) |
+| Breast Cancer | [Acesse](./arvore-decisao/breast_cancer.py) |
+| Heart Disease | [Acesse](./arvore-decisao/heart_dataset.py) |
+| Iris | [Acesse](./arvore-decisao/iris_dataset.py) |
 
 ---
 
